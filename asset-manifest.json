@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4b75f874.chunk.css",
+    "main.js": "/static/js/main.64fd377d.chunk.js",
+    "main.js.map": "/static/js/main.64fd377d.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.2917802e.js",
+    "runtime-main.js.map": "/static/js/runtime-main.2917802e.js.map",
+    "static/js/2.04016a9e.chunk.js": "/static/js/2.04016a9e.chunk.js",
+    "static/js/2.04016a9e.chunk.js.map": "/static/js/2.04016a9e.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.4b75f874.chunk.css.map": "/static/css/main.4b75f874.chunk.css.map",
+    "static/js/2.04016a9e.chunk.js.LICENSE.txt": "/static/js/2.04016a9e.chunk.js.LICENSE.txt",
+    "static/media/pexels-cottonbro-5184955.853f1d68.jpg": "/static/media/pexels-cottonbro-5184955.853f1d68.jpg",
+    "static/media/pexels-cottonbro-5184955.94dac9ea.png": "/static/media/pexels-cottonbro-5184955.94dac9ea.png",
+    "static/media/pexels-karolina-grabowska-6958531.5e36b2ee.jpg": "/static/media/pexels-karolina-grabowska-6958531.5e36b2ee.jpg",
+    "static/media/pexels-monstera-6238068.1603a9b6.jpg": "/static/media/pexels-monstera-6238068.1603a9b6.jpg",
+    "static/media/pexels-monstera-6238297.5c2cfdb1.jpg": "/static/media/pexels-monstera-6238297.5c2cfdb1.jpg",
+    "static/media/pexels-nothing-ahead-3729557.18eb76ac.jpg": "/static/media/pexels-nothing-ahead-3729557.18eb76ac.jpg",
+    "static/media/pexels-pixabay-207756.e4956656.jpg": "/static/media/pexels-pixabay-207756.e4956656.jpg",
+    "static/media/pexels-tima-miroshnichenko-6615076.3d2fbec5.jpg": "/static/media/pexels-tima-miroshnichenko-6615076.3d2fbec5.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2917802e.js",
+    "static/js/2.04016a9e.chunk.js",
+    "static/css/main.4b75f874.chunk.css",
+    "static/js/main.64fd377d.chunk.js"
+  ]
+}
